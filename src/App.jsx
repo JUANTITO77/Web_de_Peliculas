@@ -1,10 +1,11 @@
+import Content from './components/Content'
 import './styles/App.css'
 
 function App() {
 
   return (
     <>
-      <h1>Hola mundo</h1>
+      <Content/>
     </>
   )
 }

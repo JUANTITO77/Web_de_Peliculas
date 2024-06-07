@@ -1,6 +1,6 @@
-# React + Vite
+# Web De Peliculas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenido al mejor proyecto del mundo un sistema que revolucionara la tecnologia, dando un salto importante en los avances tecnologicos.
 
 Currently, two official plugins are available:
 
